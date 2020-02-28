@@ -5,4 +5,6 @@ p2 = Pessoa('Joao', 32)
 
 p1.comer('maca')
 
+p1.get_ano_nascimento()
+
 
